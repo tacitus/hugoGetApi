@@ -9,3 +9,14 @@ fields:
   description: Basic intro
   config:
     required: true
+- type: image_gallery
+  name: carousel
+  label: Carousel
+- type: textarea
+  name: content
+  label: Content
+  config:
+    required: true
+    wysiwyg: true
+    schema:
+      format: markdown
