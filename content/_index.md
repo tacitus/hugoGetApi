@@ -1,6 +1,5 @@
 ---
 title: home
-draft: true
 
 ---
 # Welcome to the Homepage!
