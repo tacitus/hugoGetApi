@@ -2,4 +2,10 @@
 label: standard page
 hide_body: false
 is_partial: false
-fields: []
+fields:
+- type: text
+  name: introduction
+  label: Introduction
+  description: Basic intro
+  config:
+    required: true
